@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094060352640",
+    "project_id": "travelapp-onlab",
+    "storage_bucket": "travelapp-onlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094060352640:android:059e4abcade5740792b265",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnQ4OeB0xdcGkUfLgL1j7H7MHLgfxVdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

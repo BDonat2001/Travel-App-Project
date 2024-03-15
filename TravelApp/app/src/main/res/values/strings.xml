@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="forgot_password">forgot password</string>
+</resources>
